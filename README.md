@@ -17,7 +17,7 @@
   6. [Authors and acknowledgment](#authors%20and%20acknowledgment)
 ---
 ## About
- ### A schedule creater you can use to track tasks and time
+ ### A schedule creator you can use to track tasks and time
 ---
 ## Usage Info
   ### n/a
